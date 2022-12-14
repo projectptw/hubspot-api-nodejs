@@ -17,6 +17,7 @@
   "author": "HubSpot",
   "license": "ISC",
   "dependencies": {
+    "@hubspot/api-client": "^8.2.0",
     "bottleneck": "^2.19.5",
     "btoa": "^1.2.1",
     "es6-promise": "^4.2.4",
